@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class CoinCombinationI {
     public static void main(String[] args) throws IOException {
         final int MOD = 1_000_000_007;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
